@@ -1,5 +1,5 @@
 defmodule Htto do
   @moduledoc """
-  Documentation for Htto.
+  ORM for HTTP APIs
   """
 end
